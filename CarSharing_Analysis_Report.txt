@@ -1,0 +1,7 @@
+CarSharing SIWES analysis (2017)
+Highest demand: 2017-06-15 17:00:00, 6.4583
+Highest weekday avg: Saturday 4.4114; lowest: Thursday 4.1193
+Highest month avg: July 4.7877; lowest: January 3.3883
+Highest season avg: fall 4.6603; lowest: spring 3.6069
+Most common category: Mild (2735)
+Most common weather: Clear or partly cloudy (3583)
